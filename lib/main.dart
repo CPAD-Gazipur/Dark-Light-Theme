@@ -93,6 +93,7 @@ class _MyAppState extends State<MyApp> {
       ),
       themeMode: _themeMode,
       debugShowCheckedModeBanner: false,
+      title: 'Dark Light Theme',
       home: Scaffold(
         appBar: AppBar(
           title: const Text('Dart Mode'),
