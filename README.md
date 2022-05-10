@@ -23,13 +23,10 @@ Link: https://terabox.com/s/1EaOPDp68VxnX-fdmkRW6dA
 ## Web Screenshots:
 
 
-| WebView Dark Mode    |  
-| :---:       |   
-| <img src="screenshots/web_dark_mode.jpeg">   | 
+| WebView Dark Mode    |   WebView Light Mode |
+| :---:       |      :----:   |
+| <img src="screenshots/web_dark_mode.jpeg">   |  <img src="screenshots/web_light_mode.jpeg">     |
 
-|  WebView Light Mode |
-|    :----:   | 
-|  <img src="screenshots/web_light_mode.jpeg">     |
 
 |   WebView System Light Mode |
 |    :----:   |
