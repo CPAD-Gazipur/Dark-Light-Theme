@@ -17,16 +17,23 @@ Link: https://terabox.com/s/1EaOPDp68VxnX-fdmkRW6dA
 
 | Dark Mode Enable     |  Light Mode Enable | 
 | :---:       |    :----:   |
-| <img src="screenshots/dark_mode.png" width="250">       |  <img src="screenshots/detail_screen.png" width="250">     | 
+| <img src="screenshots/dark_mode.png" width="250">       |  <img src="screenshots/light_mode.png" width="250">     | 
 
 
 ## Web Screenshots:
 
 
-| WebView Dark Mode    |  WebView Light Mode |   WebView System Light Mode |
-| :---:       |    :----:   |   :----:   | 
-| <img src="screenshots/web_dark_mode.jpeg">      |  <img src="screenshots/web_light_mode.jpeg">     | <img src="screenshots/web_system_light.jpeg">     |
+| WebView Dark Mode    |  
+| :---:       |   
+| <img src="screenshots/web_dark_mode.jpeg">   | 
 
+|  WebView Light Mode |
+|    :----:   | 
+|  <img src="screenshots/web_light_mode.jpeg">     |
+
+|   WebView System Light Mode |
+|    :----:   |
+|   <img src="screenshots/web_system_light.jpeg">     |
 
 
 ### Disclaimer
